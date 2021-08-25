@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/patrickharris
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://napoleonvswellington.org
+  * I am patrickharris (https://keybase.io/patrickharris) on keybase.
+  * I have a public key ASDJDsqhbCEPFP173JI3saWuul_lSbfqJicywqAxgRlI-wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200d4c6754e0eeca466b6ff8ded84503a15498c4385decd367082efe2180daca040a",
+      "host": "keybase.io",
+      "kid": "0120c90ecaa16c210f14fd7bdc9237b1a5aeba5fe549b7ea262732c2a031811948fb0a",
+      "uid": "9d03dd97c11c797b2ff8cc78adb3b319",
+      "username": "patrickharris"
+    },
+    "merkle_root": {
+      "ctime": 1579102200,
+      "hash": "6101a96540266d1f5b940f1c736622aebddf169a76568a4a586e0263f240fa25aef13a1cc92546e43346414204ae29a042c64182cead5acaca4d0b31f44b0b3b",
+      "hash_meta": "e55078c677e47afdf9e67646dc552b3aa6de52927122e677d20247d30df7f61d",
+      "seqno": 14237746
+    },
+    "service": {
+      "entropy": "FhAhW+3egvDZkNExVoQEyzn3",
+      "hostname": "napoleonvswellington.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579102209,
+  "expire_in": 504576000,
+  "prev": "2600fa8a38dfd110ca0f7850cbbcaa267ab82faa9e804c17aef92d642610359b",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyQ7KoWwhDxT9e9ySN7Glrrpf5Um36iYnMsKgMYEZSPsKp3BheWxvYWTESpcCJcQgJgD6ijjf0RDKD3hQy7yqJnq4L6qegEwXrvktZCYQNZvEIOxX57yZbZVNTgIixn1vOjdimxXf9njnqObWS754zun7AgHCo3NpZ8RAJ5kPstdK91XuyCR37U77hrWiYR3Tz5460JFBBKI8TNzMhupqsQvJIjE3pXowCle5lDxYJQC0/vAhHa1xZacNCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIORXilFLLE+lIXNrIyMZp6x4EuE60ubDxzxJS5txnhK4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/patrickharris
+
+==================================================================

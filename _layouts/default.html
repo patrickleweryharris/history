@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h2 class="nav-title">{{ site.title }}</h2>
+        </a>
+        <ul>
+          <li><a href="{{ '/about' | prepend: site.baseurl  }}">About</a></li>
+          <li><a href="{{ site.baseurl }}/">Posts</a></li>
+          <li><a href="{{'/feed.xml' | prepend: site.baseurl }}">Feed</a></li>
+          <li><a href="{{ 'https://plh.io' }}">plh.io</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <span>
+        <center>
+          <ul>
+          <li><a href="{{ 'https://twitter.com/napoleonicwars' }}"><img src="{{'/assets/images/twitter.png' | prepend: site.baseurl}}"style="width:16px;height:16px"></a></li>
+          <li><a href="{{ 'https://github.com/patrickleweryharris' }}"><img src="{{'/assets/images/github.png' | prepend: site.baseurl}}"style="width:16px;height:16px"></a></li>
+          </center>
+          </ul>
+          &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> Napoleonic and Naval History, a site by  {{ site.author.name }}.
+      </span>
+    </footer>
+  </body>
+</html>
