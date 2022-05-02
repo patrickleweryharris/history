@@ -31,7 +31,7 @@ author:
 remote_theme: chesterhow/tale
 permalink: /:year/:month/:title.html
 
-paginate: 5
+paginate: 30
 paginate_path: /page:num/
 
 plugins:
