@@ -18,15 +18,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   The age of sail and revolutions
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://napoleonvswellington.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: napoleonicwars
-github_username:  patrickleweryharris
 
 # Build settings
 markdown: kramdown
 
 author:
-  name: Patrick Harris
-  url: https://lewery.ca
+  name: Patrick H
+  url: https://napoleonvswellington.org
 
 remote_theme: chesterhow/tale
 permalink: /:year/:month/:title.html

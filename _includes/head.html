@@ -22,22 +22,5 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
 
 
-    <!-- Twitter cards -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-    <meta name="twitter:url" content="{{ page.url }}">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
-
-    {% if page.image %}
-    <meta name="twitter:card"  content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-    {% else %}
-    <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="{{ site.title_image }}">
-    {% endif %}
-    <!-- end of Twitter cards -->
-
 
 </head>

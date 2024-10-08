@@ -2,7 +2,7 @@
 layout: post
 title: The Lethargic Admiralty
 date: '2020-01-14T00:19:00.000-05:00'
-author: Patrick Harris
+author: Patrick H
 description: Nelson, Trafalgar, and Reform in the Royal Navy 1815-1860
 image: /assets/images/posts/navy-list.jpg
 redirect_from:

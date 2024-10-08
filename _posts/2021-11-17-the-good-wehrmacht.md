@@ -2,7 +2,7 @@
 layout: post
 title: The 'Good' Wehrmacht
 date: '2021-11-16T00:19:00.000-05:00'
-author: Patrick Harris
+author: Patrick H
 description: The Myth of Innocence in Post War Germany
 image: /assets/images/posts/ww2/bitburg.png
 redirect_from:
